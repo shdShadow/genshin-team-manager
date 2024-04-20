@@ -1,0 +1,1712 @@
+[
+    {
+        "name": "Primogem",
+        "type": "Common Currency",
+        "rarity": 5
+    },
+    {
+        "name": "Mora",
+        "type": "Common Currency",
+        "rarity": 3
+    },
+    {
+        "name": "Wanderer's Advice",
+        "type": "Character EXP Material",
+        "rarity": 2
+    },
+    {
+        "name": "Adventurer's Experience",
+        "type": "Character EXP Material",
+        "rarity": 3
+    },
+    {
+        "name": "Hero's Wit",
+        "type": "Character EXP Material",
+        "rarity": 4
+    },
+    {
+        "name": "Enhancement Ore",
+        "type": "Weapon Enhancement Materials",
+        "rarity": 1
+    },
+    {
+        "name": "Fine Enhancement Ore",
+        "type": "Weapon Enhancement Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Mystic Enhancement Ore",
+        "type": "Weapon Enhancement Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Brilliant Diamond Sliver",
+        "type": "Character Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Brilliant Diamond Fragment",
+        "type": "Character Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Brilliant Diamond Chunk",
+        "type": "Character Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Brilliant Diamond Gemstone",
+        "type": "Character Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Agnidus Agate Sliver",
+        "type": "Character Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Agnidus Agate Fragment",
+        "type": "Character Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Agnidus Agate Chunk",
+        "type": "Character Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Agnidus Agate Gemstone",
+        "type": "Character Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Varunada Lazurite Sliver",
+        "type": "Character Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Varunada Lazurite Fragment",
+        "type": "Character Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Varunada Lazurite Chunk",
+        "type": "Character Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Varunada Lazurite Gemstone",
+        "type": "Character Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Vajrada Amethyst Sliver",
+        "type": "Character Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Vajrada Amethyst Fragment",
+        "type": "Character Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Vajrada Amethyst Chunk",
+        "type": "Character Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Vajrada Amethyst Gemstone",
+        "type": "Character Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Vayuda Turquoise Sliver",
+        "type": "Character Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Vayuda Turquoise Fragment",
+        "type": "Character Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Vayuda Turquoise Chunk",
+        "type": "Character Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Vayuda Turquoise Gemstone",
+        "type": "Character Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Shivada Jade Sliver",
+        "type": "Character Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Shivada Jade Fragment",
+        "type": "Character Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Shivada Jade Chunk",
+        "type": "Character Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Shivada Jade Gemstone",
+        "type": "Character Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Prithiva Topaz Sliver",
+        "type": "Character Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Prithiva Topaz Fragment",
+        "type": "Character Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Prithiva Topaz Chunk",
+        "type": "Character Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Prithiva Topaz Gemstone",
+        "type": "Character Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Nagadus Emerald Sliver",
+        "type": "Character Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Nagadus Emerald Fragment",
+        "type": "Character Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Nagadus Emerald Chunk",
+        "type": "Character Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Nagadus Emerald Gemstone",
+        "type": "Character Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Hurricane Seed",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Lightning Prism",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Basalt Pillar",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Crystalline Bloom",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Smoldering Pearl",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Dew of Repudiation",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Quelled Creeper",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Hoarfrost Core",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Everflame Seed",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Thunderclap Fruitcore",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Cleansing Heart",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Dragonheir's False Fin",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Juvenile Jade",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Marionette Core",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Perpetual Heart",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Riftborn Regalia",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Runic Fang",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Storm Beads",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Majestic Hooked Beak",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Pseudo-Stamens",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Light Guiding Tetrahedron",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Perpetual Caliber",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Evergloom Ring",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Artificed Spare Clockwork Component \u2014 Coppelia",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Artificed Spare Clockwork Component \u2014 Coppelius",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Emperor's Resolution",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Fontemer Unihorn",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "\"Tourbillon Device\"",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Water That Failed To Transcend",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Cloudseam Scale",
+        "type": "Boss Material",
+        "rarity": 4
+    },
+    {
+        "name": "Amakumo Fruit",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Beryl Conch",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Calla Lily",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Cecilia",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Clearwater Jade",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Cor Lapis",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Crystal Marrow",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Dandelion Seed",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Dendrobium",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Fluorescent Fungus",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Glaze Lily",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Henna Berry",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Jueyun Chili",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Kalpalata Lotus",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Lakelight Lily",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Lumidouce Bell",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Lumitoile",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Marcotte",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Mourning Flower",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Naku Weed",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Nilotpala Lotus",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Noctilucous Jade",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Onikabuto",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Padisarah",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Philanemo Mushroom",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Qingxin",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Rainbow Rose",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Romaritime Flower",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Rukkhashava Mushrooms",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Sakura Bloom",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Sand Grease Pupa",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Sango Pearl",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Scarab",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Sea Ganoderma",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Silk Flower",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Small Lamp Grass",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Spring of the First Dewdrop",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Starconch",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Subdetection Unit",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Valberry",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Violetgrass",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Windwheel Aster",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Wolfhook",
+        "type": "Local Specialties",
+        "rarity": 0
+    },
+    {
+        "name": "Teachings of Freedom",
+        "type": "Talent Level-Up Material",
+        "rarity": 2
+    },
+    {
+        "name": "Guide to Freedom",
+        "type": "Talent Level-Up Material",
+        "rarity": 3
+    },
+    {
+        "name": "Philosophies of Freedom",
+        "type": "Talent Level-Up Material",
+        "rarity": 4
+    },
+    {
+        "name": "Teachings of Resistance",
+        "type": "Talent Level-Up Material",
+        "rarity": 2
+    },
+    {
+        "name": "Guide to Resistance",
+        "type": "Talent Level-Up Material",
+        "rarity": 3
+    },
+    {
+        "name": "Philosophies of Resistance",
+        "type": "Talent Level-Up Material",
+        "rarity": 4
+    },
+    {
+        "name": "Teachings of Ballad",
+        "type": "Talent Level-Up Material",
+        "rarity": 2
+    },
+    {
+        "name": "Guide to Ballad",
+        "type": "Talent Level-Up Material",
+        "rarity": 3
+    },
+    {
+        "name": "Philosophies of Ballad",
+        "type": "Talent Level-Up Material",
+        "rarity": 4
+    },
+    {
+        "name": "Teachings of Prosperity",
+        "type": "Talent Level-Up Material",
+        "rarity": 2
+    },
+    {
+        "name": "Guide to Prosperity",
+        "type": "Talent Level-Up Material",
+        "rarity": 3
+    },
+    {
+        "name": "Philosophies of Prosperity",
+        "type": "Talent Level-Up Material",
+        "rarity": 4
+    },
+    {
+        "name": "Teachings of Diligence",
+        "type": "Talent Level-Up Material",
+        "rarity": 2
+    },
+    {
+        "name": "Guide to Diligence",
+        "type": "Talent Level-Up Material",
+        "rarity": 3
+    },
+    {
+        "name": "Philosophies of Diligence",
+        "type": "Talent Level-Up Material",
+        "rarity": 4
+    },
+    {
+        "name": "Teachings of Gold",
+        "type": "Talent Level-Up Material",
+        "rarity": 2
+    },
+    {
+        "name": "Guide to Gold",
+        "type": "Talent Level-Up Material",
+        "rarity": 3
+    },
+    {
+        "name": "Philosophies of Gold",
+        "type": "Talent Level-Up Material",
+        "rarity": 4
+    },
+    {
+        "name": "Teachings of Transience",
+        "type": "Talent Level-Up Material",
+        "rarity": 2
+    },
+    {
+        "name": "Guide to Transience",
+        "type": "Talent Level-Up Material",
+        "rarity": 3
+    },
+    {
+        "name": "Philosophies of Transience",
+        "type": "Talent Level-Up Material",
+        "rarity": 4
+    },
+    {
+        "name": "Teachings of Elegance",
+        "type": "Talent Level-Up Material",
+        "rarity": 2
+    },
+    {
+        "name": "Guide to Elegance",
+        "type": "Talent Level-Up Material",
+        "rarity": 3
+    },
+    {
+        "name": "Philosophies of Elegance",
+        "type": "Talent Level-Up Material",
+        "rarity": 4
+    },
+    {
+        "name": "Teachings of Light",
+        "type": "Talent Level-Up Material",
+        "rarity": 2
+    },
+    {
+        "name": "Guide to Light",
+        "type": "Talent Level-Up Material",
+        "rarity": 3
+    },
+    {
+        "name": "Philosophies of Light",
+        "type": "Talent Level-Up Material",
+        "rarity": 4
+    },
+    {
+        "name": "Teachings of Admonition",
+        "type": "Talent Level-Up Material",
+        "rarity": 2
+    },
+    {
+        "name": "Guide to Admonition",
+        "type": "Talent Level-Up Material",
+        "rarity": 3
+    },
+    {
+        "name": "Philosophies of Admonition",
+        "type": "Talent Level-Up Material",
+        "rarity": 4
+    },
+    {
+        "name": "Teachings of Ingenuity",
+        "type": "Talent Level-Up Material",
+        "rarity": 2
+    },
+    {
+        "name": "Guide to Ingenuity",
+        "type": "Talent Level-Up Material",
+        "rarity": 3
+    },
+    {
+        "name": "Philosophies of Ingenuity",
+        "type": "Talent Level-Up Material",
+        "rarity": 4
+    },
+    {
+        "name": "Teachings of Praxis",
+        "type": "Talent Level-Up Material",
+        "rarity": 2
+    },
+    {
+        "name": "Guide to Praxis",
+        "type": "Talent Level-Up Material",
+        "rarity": 3
+    },
+    {
+        "name": "Philosophies of Praxis",
+        "type": "Talent Level-Up Material",
+        "rarity": 4
+    },
+    {
+        "name": "Teachings of Equity",
+        "type": "Talent Level-Up Material",
+        "rarity": 2
+    },
+    {
+        "name": "Guide to Equity",
+        "type": "Talent Level-Up Material",
+        "rarity": 3
+    },
+    {
+        "name": "Philosophies of Equity",
+        "type": "Talent Level-Up Material",
+        "rarity": 4
+    },
+    {
+        "name": "Teachings of Justice",
+        "type": "Talent Level-Up Material",
+        "rarity": 2
+    },
+    {
+        "name": "Guide to Justice",
+        "type": "Talent Level-Up Material",
+        "rarity": 3
+    },
+    {
+        "name": "Philosophies of Justice",
+        "type": "Talent Level-Up Material",
+        "rarity": 4
+    },
+    {
+        "name": "Teachings of Order",
+        "type": "Talent Level-Up Material",
+        "rarity": 2
+    },
+    {
+        "name": "Guide to Order",
+        "type": "Talent Level-Up Material",
+        "rarity": 3
+    },
+    {
+        "name": "Philosophies of Order",
+        "type": "Talent Level-Up Material",
+        "rarity": 4
+    },
+    {
+        "name": "Slime Condensate",
+        "type": "Common Ascension Materials",
+        "rarity": 1
+    },
+    {
+        "name": "Slime Secretions",
+        "type": "Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Slime Concentrate",
+        "type": "Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Damaged Mask",
+        "type": "Common Ascension Materials",
+        "rarity": 1
+    },
+    {
+        "name": "Stained Mask",
+        "type": "Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Ominous Mask",
+        "type": "Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Divining Scroll",
+        "type": "Common Ascension Materials",
+        "rarity": 1
+    },
+    {
+        "name": "Sealed Scroll",
+        "type": "Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Forbidden Curse Scroll",
+        "type": "Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Firm Arrowhead",
+        "type": "Common Ascension Materials",
+        "rarity": 1
+    },
+    {
+        "name": "Sharp Arrowhead",
+        "type": "Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Weathered Arrowhead",
+        "type": "Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Recruit's Insignia",
+        "type": "Common Ascension Materials",
+        "rarity": 1
+    },
+    {
+        "name": "Sergeant's Insignia",
+        "type": "Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Lieutenant's Insignia",
+        "type": "Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Treasure Hoarder Insignia",
+        "type": "Common Ascension Materials",
+        "rarity": 1
+    },
+    {
+        "name": "Silver Raven Insignia",
+        "type": "Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Golden Raven Insignia",
+        "type": "Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Whopperflower Nectar",
+        "type": "Common Ascension Materials",
+        "rarity": 1
+    },
+    {
+        "name": "Shimmering Nectar",
+        "type": "Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Energy Nectar",
+        "type": "Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Old Handguard",
+        "type": "Common Ascension Materials",
+        "rarity": 1
+    },
+    {
+        "name": "Kageuchi Handguard",
+        "type": "Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Famed Handguard",
+        "type": "Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Spectral Husk",
+        "type": "Common Ascension Materials",
+        "rarity": 1
+    },
+    {
+        "name": "Spectral Heart",
+        "type": "Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Spectral Nucleus",
+        "type": "Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Fungal Spores",
+        "type": "Common Ascension Materials",
+        "rarity": 1
+    },
+    {
+        "name": "Luminescent Pollen",
+        "type": "Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Crystalline Cyst Dust",
+        "type": "Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Faded Red Satin",
+        "type": "Common Ascension Materials",
+        "rarity": 1
+    },
+    {
+        "name": "Trimmed Red Silk",
+        "type": "Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Rich Red Brocade",
+        "type": "Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Meshing Gear",
+        "type": "Common Ascension Materials",
+        "rarity": 1
+    },
+    {
+        "name": "Mechanical Spur Gear",
+        "type": "Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Artificed Dynamic Gear",
+        "type": "Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Transoceanic Pearl",
+        "type": "Common Ascension Materials",
+        "rarity": 1
+    },
+    {
+        "name": "Transoceanic Chunk",
+        "type": "Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Xenochromatic Crystal",
+        "type": "Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Heavy Horn",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Black Bronze Horn",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Black Crystal Horn",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Dead Ley Line Branch",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Dead Ley Line Leaves",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Ley Line Sprout",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Chaos Device",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Chaos Circuit",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Chaos Core",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Mist Grass Pollen",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Mist Grass",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Mist Grass Wick",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Hunter's Sacrificial Knife",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Agent's Sacrificial Knife",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Inspector's Sacrificial Knife",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Fragile Bone Shard",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Sturdy Bone Shard",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Fossilized Bone Shard",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Chaos Gear",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Chaos Axis",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Chaos Oculus",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Chaos Storage",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Chaos Module",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Chaos Bolt",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Dismal Prism",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Crystal Prism",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Polarizing Prism",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Concealed Claw",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Concealed Unguis",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Concealed Talon",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Gloomy Statuette",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Dark Statuette",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Deathly Statuette",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Inactivated Fungal Nucleus",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Dormant Fungal Nucleus",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Robust Fungal Nucleus",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Damaged Prism",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Turbid Prism",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Radiant Prism",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Desiccated Shell",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Sturdy Shell",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Marked Shell",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "A Flower Yet to Bloom",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Treasured Flower",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Wanderer's Blooming Flower",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Drop of Tainted Water",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Scoop of Tainted Water",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Newborn Tainted Hydro Phantasm",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Rift Core",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Foreign Synapse",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Alien Life Core",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Old Operative's Pocket Watch",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Operative's Standard Pocket Watch",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Operative's Constancy",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Feathery Fin",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Lunar Fin",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Chasmlight Fin",
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Dvalin's Plume",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Dvalin's Claw",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Dvalin's Sigh",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Tail of Boreas",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Ring of Boreas",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Spirit Locket of Boreas",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Tusk of Monoceros Caeli",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Shard of a Foul Legacy",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Shadow of the Warrior",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Dragon Lord's Crown",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Bloodjade Branch",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Gilded Scale",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Molten Moment",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Hellfire Butterfly",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Ashen Heart",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Mudra of the Malefic General",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Tears of the Calamitous God",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "The Meaning of Aeons",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Puppet Strings",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Mirror of Mushin",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Daka's Bell",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Worldspan Fern",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Primordial Greenbloom",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Everamber",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Lightless Silk String",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Lightless Eye of the Maelstrom",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Lightless Mass",
+        "type": "Elite Boss Material",
+        "rarity": 5
+    },
+    {
+        "name": "Crown of Insight",
+        "type": "Limited-duration Event Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Tile of Decarabian's Tower",
+        "type": "Weapon Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Debris of Decarabian's City",
+        "type": "Weapon Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Fragment of Decarabian's Epic",
+        "type": "Weapon Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Scattered Piece of Decarabian's Dream",
+        "type": "Weapon Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Boreal Wolf's Milk Tooth",
+        "type": "Weapon Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Boreal Wolf's Cracked Tooth",
+        "type": "Weapon Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Boreal Wolf's Broken Fang",
+        "type": "Weapon Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Boreal Wolf's Nostalgia",
+        "type": "Weapon Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Fetters of the Dandelion Gladiator",
+        "type": "Weapon Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Chains of the Dandelion Gladiator",
+        "type": "Weapon Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Shackles of the Dandelion Gladiator",
+        "type": "Weapon Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Dream of the Dandelion Gladiator",
+        "type": "Weapon Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Luminous Sands from Guyun",
+        "type": "Weapon Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Lustrous Stone from Guyun",
+        "type": "Weapon Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Relic from Guyun",
+        "type": "Weapon Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Divine Body from Guyun",
+        "type": "Weapon Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Mist Veiled Lead Elixir",
+        "type": "Weapon Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Mist Veiled Mercury Elixir",
+        "type": "Weapon Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Mist Veiled Gold Elixir",
+        "type": "Weapon Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Mist Veiled Primo Elixir",
+        "type": "Weapon Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Grain of Aerosiderite",
+        "type": "Weapon Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Piece of Aerosiderite",
+        "type": "Weapon Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Bit of Aerosiderite",
+        "type": "Weapon Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Chunk of Aerosiderite",
+        "type": "Weapon Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Coral Branch of a Distant Sea",
+        "type": "Weapon Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Jeweled Branch of a Distant Sea",
+        "type": "Weapon Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Jade Branch of a Distant Sea",
+        "type": "Weapon Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Golden Branch of a Distant Sea",
+        "type": "Weapon Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Narukami's Wisdom",
+        "type": "Weapon Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Narukami's Joy",
+        "type": "Weapon Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Narukami's Affection",
+        "type": "Weapon Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Narukami's Valor",
+        "type": "Weapon Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Mask of the Wicked Lieutenant",
+        "type": "Weapon Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Mask of the Tiger's Bite",
+        "type": "Weapon Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Mask of the One-Horned",
+        "type": "Weapon Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Mask of the Kijin",
+        "type": "Weapon Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Copper Talisman of the Forest Dew",
+        "type": "Weapon Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Iron Talisman of the Forest Dew",
+        "type": "Weapon Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Silver Talisman of the Forest Dew",
+        "type": "Weapon Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Golden Talisman of the Forest Dew",
+        "type": "Weapon Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Oasis Garden's Reminiscence",
+        "type": "Weapon Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Oasis Garden's Kindness",
+        "type": "Weapon Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Oasis Garden's Mourning",
+        "type": "Weapon Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Oasis Garden's Truth",
+        "type": "Weapon Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Echo of Scorching Might",
+        "type": "Weapon Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Remnant Glow of Scorching Might",
+        "type": "Weapon Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Dream of Scorching Might",
+        "type": "Weapon Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Olden Days of Scorching Might",
+        "type": "Weapon Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Fragment of an Ancient Chord",
+        "type": "Weapon Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Chapter of an Ancient Chord",
+        "type": "Weapon Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Movement of an Ancient Chord",
+        "type": "Weapon Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Echo of an Ancient Chord",
+        "type": "Weapon Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Dross of Pure Sacred Dewdrop",
+        "type": "Weapon Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Sublimation of Pure Sacred Dewdrop",
+        "type": "Weapon Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Spring of Pure Sacred Dewdrop",
+        "type": "Weapon Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Essence of Pure Sacred Dewdrop",
+        "type": "Weapon Ascension Materials",
+        "rarity": 5
+    },
+    {
+        "name": "Broken Goblet of the Pristine Sea",
+        "type": "Weapon Ascension Materials",
+        "rarity": 2
+    },
+    {
+        "name": "Wine Goblet of the Pristine Sea",
+        "type": "Weapon Ascension Materials",
+        "rarity": 3
+    },
+    {
+        "name": "Silver Goblet of the Pristine Sea",
+        "type": "Weapon Ascension Materials",
+        "rarity": 4
+    },
+    {
+        "name": "Golden Goblet of the Pristine Sea",
+        "type": "Weapon Ascension Materials",
+        "rarity": 5
+    }
+]
