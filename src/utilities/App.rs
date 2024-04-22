@@ -6,7 +6,7 @@ pub mod app {
     use crossterm::event::{self, Event, KeyCode, KeyEvent, KeyEventKind};
     use ratatui::{
         buffer::Buffer,
-        layout::{Alignment, Rect},
+        layout::{Alignment, Layout, Rect},
         style::Stylize,
         symbols::border,
         text::{Line, Text},
@@ -16,10 +16,13 @@ pub mod app {
         },
         Frame,
     };
+    use crate::utilities::MainWindow::MainWindow::MainWindow;
+    use crate::utilities::teams_home_window::teams_home_window;
     #[derive(Debug, Default)]
     pub enum AppState {
         #[default]
         MainWindow,
+        TeamsHome,
     }
 
     #[derive(Debug, Default)]
@@ -54,6 +57,9 @@ pub mod app {
         fn handle_key_event(&mut self, key_event: KeyEvent) {
             match key_event.code {
                 KeyCode::Char('q') => self.exit(),
+                KeyCode::Char('t') => {
+                    self.state = AppState::TeamsHome;
+                } 
                 _ => {}
             }
         }
@@ -67,30 +73,14 @@ pub mod app {
         fn render(self, area: Rect, buf: &mut Buffer) {
             match self.state {
                 AppState::MainWindow => {
-                    let title = Title::from(" Counter app Tutorial ".bold());
-                    let instructions = Title::from(Line::from(vec![
-                        " Decrement ".into(),
-                        "<Left>".blue().bold(),
-                        " Increment ".into(),
-                        "<Right>".blue().bold(),
-                        " Quit ".into(),
-                        " <Q> ".blue().bold(),
-                    ]));
-                    let block = Block::default()
-                        .title(title.alignment(Alignment::Center))
-                        .title(
-                            instructions
-                                .alignment(Alignment::Center)
-                                .position(Position::Bottom),
-                        )
-                        .borders(Borders::ALL)
-                        .border_set(border::THICK);
-                    let counter_text = Text::from(vec![Line::from(vec!["Value: ".into()])]);
-                    Paragraph::new(counter_text)
-                        .centered()
-                        .block(block)
-                        .render(area, buf);
+                    let mainWindow = MainWindow::new();
+                    mainWindow.render(area, buf);
+                },
+                AppState::TeamsHome => {
+                    let teamsHome = teams_home_window::teams_home_window::new();
+                    teamsHome.render(area, buf);
                 }
+
             }
         }
     }
